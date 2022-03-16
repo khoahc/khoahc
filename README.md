@@ -5,8 +5,8 @@
     <h3>👀 I’m interested in Web</h3>
 </div>
 
-<div>
-    <a href="https://app.daily.dev/khoahc"><img src="https://github.com/khoahc/khoahc/devcard.svg" width="400" alt="Dang Khoa's Dev Card"/></a>
+<div align=center>
+    <a href="https://app.daily.dev/khoahc"><img src="https://github.com/khoahc/khoahc/blob/main/devcard.svg" width="400" alt="Dang Khoa's Dev Card"/></a>
 </div>
 
 <div align=center>
